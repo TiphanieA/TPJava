@@ -1,6 +1,8 @@
 
 import java.util.*;
 
+//merci tyftyf ! =)
+
 public class CarteBancaire {
 
 	public int CodePIN;

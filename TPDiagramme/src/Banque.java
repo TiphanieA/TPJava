@@ -1,9 +1,6 @@
 
 import java.util.*;
 
-/**
- * 
- */
 public class Banque {
 
 	public String nomBanque;
