@@ -1,9 +1,4 @@
 
-import java.util.*;
-
-/**
- * 
- */
 public class Guichet {
 
 	public String localisation;
